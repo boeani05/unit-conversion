@@ -47,8 +47,8 @@ body, #head-header {
 
 #results {
     background: #1F2937;
+    background-size: cover;
     text-align: center;
-    height: 580px;
     padding: 30px;
 }
 
